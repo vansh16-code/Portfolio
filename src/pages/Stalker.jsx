@@ -32,16 +32,7 @@ export default function Stalker() {
           <h3 className="text-lg font-bold">LinkedIn</h3>
           <p className="text-sm text-gray-300">Professional timeline</p>
         </a>
-        <a
-          href="/resume.pdf"
-          target="_blank"
-          rel="noreferrer"
-          className="bg-white/10 border border-purple-600 hover:scale-105 p-6 rounded-xl transition text-center"
-        >
-          <span className="text-3xl mb-2 block">📄</span>
-          <h3 className="text-lg font-bold">Resume</h3>
-          <p className="text-sm text-gray-300">Complete career summary</p>
-        </a>
+       
       </div>
 
       {/* Footer */}
