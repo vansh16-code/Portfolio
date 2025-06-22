@@ -32,6 +32,17 @@ export default function Stalker() {
           <h3 className="text-lg font-bold">LinkedIn</h3>
           <p className="text-sm text-gray-300">Professional timeline</p>
         </a>
+
+        <a
+          href="https://www.instagram.com/_vansh_mahajan_/?igsh=bzQ2NTBpN3RzeDZ5#"
+          target="_blank"
+          rel="noreferrer"
+          className="bg-white/10 border border-blue-600 hover:scale-105 p-6 rounded-xl transition text-center"
+        >
+          <FaLinkedin size={40} className="mx-auto mb-2" />
+          <h3 className="text-lg font-bold">Instagram</h3>
+          <p className="text-sm text-gray-300">Sneak Peak</p>
+        </a>
        
       </div>
 
